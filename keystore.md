@@ -1,0 +1,2 @@
+alias : keystore
+password : DyCode
